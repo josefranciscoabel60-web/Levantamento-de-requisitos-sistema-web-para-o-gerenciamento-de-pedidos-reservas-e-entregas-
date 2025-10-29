@@ -1,2 +1,2 @@
-# Levantamento-de-requisitos-sistema-web-para-o-gerenciamento-de-pedidos-reservas-e-entregas-
+# Levantamento-de-requisitos-sistema para o gerenciamento de hotéis 
 Abel
